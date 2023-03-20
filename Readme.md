@@ -1,5 +1,5 @@
 # Match Up
-### [Youtube](https://youtu.be/hhkWJi1OR1U)
+
 ## Problem Statement:
 People have different body shapes and the online stores rarely address this since the models generally wearing the clothes have perfect figure.
 
